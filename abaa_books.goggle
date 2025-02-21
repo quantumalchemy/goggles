@@ -1,0 +1,14 @@
+! name: abaa books
+! description: Prioritizes domains popular with the Antiquarian Booksellers Association of America 
+! author: QuantumAlchemy.net
+! public: true
+! avatar: #ff6600
+
+$discard
+$boost=2,site=abaa.org
+$boost=3,site=ilab.org
+/shop$boost=3,site=alincolnbookshop.com
+$boost=4,site=vialibri.net
+$boost=4,site=alibris.com
+$boost=4,site=rarebookhub.com
+
