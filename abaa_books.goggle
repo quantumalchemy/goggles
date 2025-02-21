@@ -5,8 +5,7 @@
 ! avatar: #ff6600
 
 $discard
-/book/search?searchtype=title&search=*$boost=4,site=abaa.org
+/shop$boost=4,site=abaa.org
 /page/book-search$boost=4,site=ilab.org
 /shop$boost=4,site=alincolnbookshop.com
-$boost=4,site=rarebookhub.com
 
