@@ -5,10 +5,8 @@
 ! avatar: #ff6600
 
 $discard
-$boost=2,site=abaa.org
-$boost=3,site=ilab.org
-/shop$boost=3,site=alincolnbookshop.com
-$boost=4,site=vialibri.net
-$boost=4,site=alibris.com
+/shop$boost=4,site=abaa.org
+/page/book-search$boost=4,site=ilab.org
+/shop$boost=4,site=alincolnbookshop.com
 $boost=4,site=rarebookhub.com
 
