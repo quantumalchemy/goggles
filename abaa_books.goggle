@@ -5,7 +5,7 @@
 ! avatar: #ff6600
 
 $discard
-/shop$boost=2,site=abaa.org
-/page/book-search$boost=4,site=ilab.org
-/shop$boost=4,site=alincolnbookshop.com
+$boost=2,site=abaa.org
+$boost=4,site=ilab.org
+$boost=4,site=alincolnbookshop.com
 
