@@ -1,11 +1,11 @@
-! name: antiquarian
+! name: bibliothecamagicarum
 ! description: antiquarian domains for research on rare books 
 ! author: bibliothecamagicarum.ai
 ! public: true
 ! avatar: #ff6600
 
 $discard
-$boost=1,en.wikipedia.org
+$boost=2,en.wikipedia.org
 $boost=2,embassyofthefreemind.com
 $boost=2,esotericarchives.com
 $boost=3,sacred-texts.com
