@@ -1,33 +1,34 @@
-! name: bibliothecamagicarum
+! name: antiquarian
 ! description: antiquarian domains for research on rare books 
 ! author: bibliothecamagicarum.ai
 ! public: true
 ! avatar: #ff6600
+! homepage: bibliothecamagicarum.ai
 
 $discard
-$boost=2,en.wikipedia.org
-$boost=2,embassyofthefreemind.com
-$boost=2,esotericarchives.com
-$boost=3,sacred-texts.com
-$boost=4,blackletter-press.com
-$boost=4,archive.org
-$boost=4,site=abaa.org
-$boost=4,site=ilab.org
-$boost=4,site=biblio.com
-$boost=4,vialibri.net
-$boost=4,worldcat.org
-$boost=4,booktryst.com
-$boost=4,luna.folger.edu
-$boost=4,goodreads.com
-$boost=4,lib.umich.edu
-$boost=4,loc.gov
-$boost=4,libriproibiti.com
-$boost=4,schilbantiquarian.com
-$boost=4,thefirstedition.com
-$boost=4,digitaloccultlibrary.commons.gc.cuny.edu
-/pages/books/reference-library/$boost=4,davidbrassrarebooks.com
-/r/occult/$boost=4,reddit.com
-/r/rarebooks/$boost=4,reddit.com
-/r/OldBooks/$boost=4,reddit.com
-/r/books/$boost=4,reddit.com 
-/r/BookCollecting/$boost=4,reddit.com
+$boost=2,site=en.wikipedia.org
+$boost=2,site=embassyofthefreemind.com
+$boost=2,site=esotericarchives.com
+$boost=3,site=sacred-texts.com
+$boost=4,site=blackletter-press.com
+$boost=4,site=archive.org
+$boost=4,site=site=abaa.org
+$boost=4,site=site=ilab.org
+$boost=4,site=site=biblio.com
+$boost=4,site=vialibri.net
+$boost=4,site=worldcat.org
+$boost=4,site=booktryst.com
+$boost=4,site=luna.folger.edu
+$boost=4,site=goodreads.com
+$boost=4,site=lib.umich.edu
+$boost=4,site=loc.gov
+$boost=4,site=libriproibiti.com
+$boost=4,site=schilbantiquarian.com
+$boost=4,site=thefirstedition.com
+$boost=4,site=digitaloccultlibrary.commons.gc.cuny.edu
+/pages/books/reference-library/$boost=4,site=davidbrassrarebooks.com
+/r/occult/$boost=4,site=reddit.com
+/r/rarebooks/$boost=4,site=reddit.com
+/r/OldBooks/$boost=4,site=reddit.com
+/r/books/$boost=4,site=reddit.com 
+/r/BookCollecting/$boost=4,site=reddit.com
