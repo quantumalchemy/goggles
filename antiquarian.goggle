@@ -1,9 +1,8 @@
-! name: Antiquarian
+! name: antiquarian
 ! description: antiquarian domains for research on rare books 
 ! author: bibliothecamagicarum.ai
 ! public: true
 ! avatar: #ff6600
-! homepage: bibliothecamagicarum.ai
 
 $discard
 $boost=1,en.wikipedia.org
@@ -31,4 +30,4 @@ $boost=4,digitaloccultlibrary.commons.gc.cuny.edu
 /r/rarebooks/$boost=4,reddit.com
 /r/OldBooks/$boost=4,reddit.com
 /r/books/$boost=4,reddit.com 
-/r/BookCollecting/$boost=4,reddit.com 
+/r/BookCollecting/$boost=4,reddit.com
