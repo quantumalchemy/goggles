@@ -5,7 +5,7 @@
 ! avatar: #ff6600
 
 $discard
-$boost=2,site=abaa.org
+/shop^$boost=2,site=abaa.org
 $boost=2,site=ilab.org
 $boost=4,site=alincolnbookshop.com
 $boost=4,site=acanthus.nl
