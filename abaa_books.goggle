@@ -63,12 +63,12 @@ $boost=4,site=books.hyraxia.com
 $boost=4,site=imperialfinebooks.com
 $boost=4,site=inlibris.com
 $boost=4,site=jamesjaffe.com
-$boost=4,site=librairiejammes.com/en
+$boost=4,site=librairiejammes.com
 $boost=4,site=jarndyce.co.uk
 $boost=4,site=johnnycakebooks.com
 $boost=4,site=johnsonrarebooks.com
 $boost=4,site=jonkers.co.uk
-$boost=4,site=kageroubunko.com/english
+$boost=4,site=kageroubunko.com
 $boost=4,site=sethkaller.com
 $boost=4,site=kelmscottbookshop.com
 $boost=4,site=kinmont.com
@@ -105,7 +105,7 @@ $boost=4,site=mckittrickrarebooks.com
 $boost=4,site=medariquier.com
 $boost=4,site=libreriamediolanum.com
 $boost=4,site=mitasbooks.com
-$boost=4,site=linktr.ee/studiomontespecchio
+/studiomontespecchio^$boost=4,site=linktr.ee
 $boost=4,site=musinskyrarebooks.com
 $boost=4,site=neatlinemaps.com
 $boost=4,site=nudelmanbooks.com
