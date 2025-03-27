@@ -25,6 +25,15 @@ $boost=4,site=libriproibiti.com
 $boost=4,site=schilbantiquarian.com
 $boost=4,site=thefirstedition.com
 $boost=4,site=digitaloccultlibrary.commons.gc.cuny.edu
+$boost=4,site=rarebookhub.com
+$boost=4,site=pbagalleries.com
+$boost=4,site=bibliopoly.com
+$boost=4,site=themorgan.org
+$boost=4,site=sothebys.com
+$boost=4,site=christies.com
+$boost=4,site=brassington.com
+$boost=4,site=ha.com
+/rr/rarebook/$boost=4,site=loc.gov
 /pages/books/reference-library/$boost=4,site=davidbrassrarebooks.com
 /r/occult/$boost=4,site=reddit.com
 /r/rarebooks/$boost=4,site=reddit.com
