@@ -1,0 +1,40 @@
+! name: LookForStuff
+! description: LookForStuff.com AI shopping 
+! author: LookForStuff.com
+! public: true
+! avatar: #ff6600
+
+! price$incontent
+
+
+$discard
+$boost=2,site=amazon.com
+$boost=2,site=ebay.com
+$boost=2,site=shopping.google.com
+$boost=2,site=aliexpress.us
+$boost=4,site=bestbuy.com
+$boost=4,site=walgreens.com
+$boost=4,site=etsy.com
+$boost=4,site=ikea.com
+$boost=4,site=apple.com
+$boost=4,site=homedepot.com
+$boost=4,site=target.com
+$boost=4,site=walmart.com
+$boost=4,site=costco.com
+$boost=4,site=wayfair.com
+$boost=5,site=alibaba.com
+$boost=4,site=chewy.com
+$boost=4,site=kohls.com
+$boost=4,site=lowes.com
+$boost=4,site=macys.com
+$boost=4,site=newegg.com
+$boost=4,site=nordstrom.com
+$boost=4,site=overstock.com
+$boost=4,site=zappos.com
+$boost=4,site=reddit.com
+$boost=4,site=t-mobile.com
+$boost=4,site=verizon.com
+$boost=4,site=techradar.com
+price$indescription
+
+
