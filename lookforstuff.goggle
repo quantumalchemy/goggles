@@ -8,7 +8,7 @@
 ! price$indescription
 
 $discard
-$boost=2,site=amazon.com
+$boost=1,site=amazon.com
 $boost=2,site=ebay.com
 $boost=2,site=shopping.google.com
 $boost=2,site=aliexpress.us
