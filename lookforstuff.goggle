@@ -5,14 +5,14 @@
 ! avatar: #ff6600
 
 ! price$incontent
-
+! price$indescription
 
 $discard
 $boost=2,site=amazon.com
 $boost=2,site=ebay.com
 $boost=2,site=shopping.google.com
 $boost=2,site=aliexpress.us
-$boost=4,site=bestbuy.com
+$boost=2,site=bestbuy.com
 $boost=4,site=walgreens.com
 $boost=4,site=etsy.com
 $boost=4,site=ikea.com
@@ -35,6 +35,3 @@ $boost=4,site=reddit.com
 $boost=4,site=t-mobile.com
 $boost=4,site=verizon.com
 $boost=4,site=techradar.com
-price$indescription
-
-
