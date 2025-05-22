@@ -12,7 +12,7 @@ $discard
 /deals/^$boost=3,site=shopping.yahoo.com
 $boost=3,site=amazon.com
 $boost=3,site=ebay.com
-$boost=3,site=shopping.google.com
+^shopping^$boost=3,site=google.com
 $boost=3,site=aliexpress.us
 $boost=2,site=bestbuy.com
 $boost=2,site=walgreens.com
