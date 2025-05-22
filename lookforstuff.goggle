@@ -14,7 +14,7 @@ $boost=3,site=ebay.com
 $boost=3,site=bizrate.com
 $boost=3,site=pricegrabber.com
 $boost=3,site=shopzilla.com
-$boost=3,camelcamelcamel.com
+$boost=3,site=camelcamelcamel.com
 $boost=3,site=google.com
 $boost=3,site=aliexpress.com
 $boost=2,site=bestbuy.com
