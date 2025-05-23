@@ -1,0 +1,13 @@
+! name: LookForStuff-Pricer
+! description: LookForStuff.com AI Price Compare
+! author: LookForStuff.com
+! public: true
+! avatar: #ff6600
+
+! price$incontent
+! price$indescription
+
+$discard
+$boost=3,site=camelcamelcamel.com
+$boost=3,site=keepa.com
+/search^$boost=3,site=pricespy.co.nz
