@@ -1,5 +1,5 @@
 ! name: LookForStuff-Pricer
-! description: LookForStuff.com AI Price Compare
+! description: LookForStuff.com AI Price Compare Deals
 ! author: LookForStuff.com
 ! public: true
 ! avatar: #ff6600
@@ -8,7 +8,8 @@
 ! price$indescription
 
 $discard
+$boost=3,site=slickdeals.net
 /search^$boost=3,site=camelcamelcamel.com
 $boost=2,site=camelcamelcamel.com
-$boost=2,site=keepa.com
 /search^$boost=3,site=pricespy.co.nz
+
