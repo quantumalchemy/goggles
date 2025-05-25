@@ -1,5 +1,5 @@
 ! name: LookForStuff Deals
-! description: LookForStuff.com AI Price Compare and Top Deals
+! description: LookForStuff.com AI Top Deals
 ! author: LookForStuff.com
 ! public: true
 ! avatar: #ff6600
@@ -20,4 +20,5 @@ $boost=2,site=camelcamelcamel.com
 /search^$boost=2,site=pricespy.co.nz
 /r/deals/$boost=3,site=reddit.com
 /r/Frugal/$boost=3,site=reddit.com
+$boost=3,site=reddit.com
 
