@@ -11,7 +11,7 @@ $discard
 $boost=3,site=slickdeals.net
 $boost=3,site=retailmenot.com
 $boost=3,site=woot.com
-$boost=3,site=rakuten.com
+$boost=2,site=rakuten.com
 $boost=3,site=capitaloneshopping.com
 $boost=3,site=dealsofamerica.com
 $boost=3,site=dealsea.com
@@ -21,4 +21,5 @@ $boost=2,site=camelcamelcamel.com
 /r/deals/$boost=3,site=reddit.com
 /r/Frugal/$boost=3,site=reddit.com
 $boost=3,site=reddit.com
+$boost=3,site=techradar.com
 
