@@ -40,3 +40,12 @@ $boost=2,site=overstock.com
 $boost=2,site=zappos.com
 $boost=2,site=t-mobile.com
 $boost=2,site=verizon.com
+$boost=3,site=bookfinder.com
+$boost=3,site=abebooks.com
+$boost=3,site=biblio.com
+$boost=3,site=alibris.com
+$boost=3,site=vialibri.net
+$boost=3,site=christies.com
+$boost=3,site=sothebys.com
+$boost=3,site=rarebookhub.com
+$boost=3,site=blackletter-press.com
