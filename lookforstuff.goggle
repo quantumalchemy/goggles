@@ -1,5 +1,5 @@
 ! name: LookForStuff
-! description: LookForStuff.com AI shopping 
+! description: LookForStuff.com AI Price Compare
 ! author: LookForStuff.com
 ! public: true
 ! avatar: #ff6600
@@ -38,7 +38,5 @@ $boost=2,site=newegg.com
 $boost=2,site=nordstrom.com
 $boost=2,site=overstock.com
 $boost=2,site=zappos.com
-$boost=2,site=reddit.com
 $boost=2,site=t-mobile.com
 $boost=2,site=verizon.com
-$boost=2,site=techradar.com
