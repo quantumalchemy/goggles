@@ -8,6 +8,7 @@
 ! price$indescription
 
 $discard
+$boost=4,site=dealnews.com
 $boost=3,site=slickdeals.net
 $boost=3,site=retailmenot.com
 $boost=3,site=woot.com
