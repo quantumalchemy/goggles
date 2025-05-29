@@ -23,4 +23,5 @@ $boost=2,site=camelcamelcamel.com
 /r/Frugal/$boost=3,site=reddit.com
 $boost=3,site=reddit.com
 $boost=3,site=techradar.com
+$boost=3,site=keepa.com
 
