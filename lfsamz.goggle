@@ -8,5 +8,6 @@
 ! price$indescription
 
 $discard
-$boost=2,site=amazon.com
 */dp/*$boost=3,site=amazon.com
+$boost=2,site=amazon.com
+
