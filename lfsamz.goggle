@@ -1,0 +1,11 @@
+! name: LookForStuff Amazon
+! description: LookForStuff.com AI Amazon Prices
+! author: LookForStuff.com
+! public: true
+! avatar: #ff6600
+
+! price$incontent
+! price$indescription
+
+$discard
+$boost=3,site=amazon.com
