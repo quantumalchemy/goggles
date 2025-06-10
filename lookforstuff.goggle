@@ -9,7 +9,8 @@
 
 $discard
 $boost=3,site=shopping.yahoo.com
-$boost=3,site=amazon.com
+*/dp/*$boost=3,site=amazon.com
+$boost=2,site=amazon.com
 $boost=3,site=ebay.com
 $boost=3,site=bizrate.com
 $boost=3,site=pricegrabber.com
