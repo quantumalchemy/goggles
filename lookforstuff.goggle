@@ -47,6 +47,7 @@ $boost=3,site=biblio.com
 $boost=3,site=alibris.com
 $boost=3,site=vialibri.net
 $boost=3,site=christies.com
+$boost=3,site=bhphotovideo.com
 $boost=3,site=sothebys.com
 $boost=3,site=rarebookhub.com
 $boost=3,site=blackletter-press.com
