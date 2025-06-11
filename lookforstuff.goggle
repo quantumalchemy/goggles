@@ -50,4 +50,4 @@ $boost=3,site=christies.com
 $boost=3,site=sothebys.com
 $boost=3,site=rarebookhub.com
 $boost=3,site=blackletter-press.com
-/search/$boost=3,site=shop.app
+/search/^$boost=3,site=shop.app
