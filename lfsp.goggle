@@ -8,20 +8,22 @@
 ! price$indescription
 
 $discard
-$boost=4,site=dealnews.com
+$boost=3,site=dealnews.com
 $boost=3,site=slickdeals.net
-$boost=3,site=retailmenot.com
+$boost=4,site=retailmenot.com
 $boost=3,site=woot.com
 $boost=2,site=rakuten.com
 $boost=3,site=capitaloneshopping.com
 $boost=3,site=dealsofamerica.com
 $boost=3,site=dealsea.com
-/search^$boost=3,site=camelcamelcamel.com
-$boost=2,site=camelcamelcamel.com
-/search^$boost=2,site=pricespy.co.nz
 /r/deals/$boost=3,site=reddit.com
 /r/Frugal/$boost=3,site=reddit.com
 $boost=3,site=reddit.com
 $boost=3,site=techradar.com
-$boost=3,site=keepa.com
-
+$boost=3,site=bensbargains.com
+$boost=3,site=thewirecutter.com
+$boost=3,site=techbargains.com
+$boost=3,site=consumerreports.org
+$boost=3,site=tomsguide.com
+/deals/$boost=3,site=engadget.com
+$boost=3,site=thewirecutter.com
