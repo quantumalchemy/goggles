@@ -27,3 +27,4 @@ $boost=3,site=consumerreports.org
 $boost=3,site=tomsguide.com
 /deals/$boost=3,site=engadget.com
 $boost=3,site=thewirecutter.com
+/r/BuyItForLife/$boost=3,site=reddit.com
