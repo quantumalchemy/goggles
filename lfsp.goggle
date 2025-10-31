@@ -17,7 +17,7 @@ $boost=3,site=dealsofamerica.com
 $boost=3,site=dealsea.com
 ! /r/deals/$boost=2,site=reddit.com
 ! /r/Frugal/$boost=2,site=reddit.com
-$boost=2,site=reddit.com
+$boost=3,site=reddit.com
 $boost=3,site=techradar.com
 $boost=3,site=bensbargains.com
 $boost=3,site=thewirecutter.com
@@ -26,4 +26,5 @@ $boost=4,site=consumerreports.org
 $boost=3,site=tomsguide.com
 /deals/$boost=3,site=engadget.com
 $boost=3,site=thewirecutter.com
+$boost=3,site=bensbargains.com
 /search/$boost=3,site=bensbargains.com
