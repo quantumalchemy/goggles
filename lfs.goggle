@@ -1,0 +1,13 @@
+! name: LookForStuff.com
+! description: LookForStuff.com
+! author: LookForStuff.com
+! public: true
+! avatar: #ff6600
+
+! price$incontent
+! price$indescription
+
+$discard
+$boost=3,site=shopping.yahoo.com
+*/dp/*$boost=3,site=amazon.com
+*/search/*$boost=3,site=facebook.com/marketplace/nyc/search/?query=occult%20books
