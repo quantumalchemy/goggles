@@ -9,3 +9,4 @@
 
 $discard
 $site=facebook.com,path=/marketplace/*/search*$boost=3
+|https://www.facebook.com/marketplace/*/search/?query=*
