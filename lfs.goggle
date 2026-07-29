@@ -8,6 +8,4 @@
 ! price$indescription
 
 $discard
-$boost=3,site=shopping.yahoo.com
-*/dp/*$boost=3,site=amazon.com
-*/search/*$boost=3,site=facebook.com/marketplace/nyc/search/?query=occult%20books
+$site=facebook.com,path=/marketplace/*/search*$boost=3
