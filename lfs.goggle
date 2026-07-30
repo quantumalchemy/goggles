@@ -1,19 +1,18 @@
-! name: LookForStuff - Arbitrage Marketplaces
-! description: Prioritizes peer-to-peer and secondary markets for  Arbitrage Agent.
+! name: LookForStuff - Top 10 Arbitrage Marketplaces
+! description: Prioritizes peer-to-peer and secondary markets for Hermes Arbitrage Agent.
 ! public: true
 ! author: Hermes Architecture Team
 
 ! --- SECTION 1: PRIMARY MARKETPLACE BOOSTS ---
-! These sites are boosted with maximum strength (10) as they are the primary targets for the Hermes Agent.
+! These sites are boosted with maximum strength (10).
 
 $boost=10,site=ebay.com
 $boost=10,site=vinted.com
-$boost=10,site=facebook.com/marketplace
 $boost=10,site=poshmark.com
 $boost=10,site=mercari.com
 
 ! --- SECTION 2: SPECIALIZED RESALE BOOSTS ---
-! These platforms are boosted with high strength (8) for niche luxury and vintage finds.
+! Platforms boosted with high strength (8) for niche luxury and vintage.
 
 $boost=8,site=depop.com
 $boost=8,site=grailed.com
@@ -29,7 +28,7 @@ $boost=5,site=varagesale.com
 $boost=5,site=nextdoor.com
 
 ! --- SECTION 4: RETAIL NOISE REDUCTION ---
-! Downranks major retail sites that dilute arbitrage data but are useful for price comparison.
+! Downranks major retail sites to focus on arbitrage opportunities.
 
 $downrank=8,site=amazon.com
 $downrank=8,site=walmart.com
@@ -37,7 +36,7 @@ $downrank=8,site=target.com
 $downrank=8,site=homedepot.com
 
 ! --- SECTION 5: DISCARD SPAM & COPYCATS ---
-! Discards low-quality content farms and StackOverflow scrapers to clean the stream.
+! Removes low-quality sites and content farms.
 
 $discard,site=pinterest.com
 $discard,site=w3schools.com
