@@ -1,12 +1,44 @@
-! name: LookForStuff.com
-! description: LookForStuff.com
-! author: LookForStuff.com
+! name: LookForStuff - Arbitrage Marketplaces
+! description: Prioritizes peer-to-peer and secondary markets for  Arbitrage Agent.
 ! public: true
-! avatar: #ff6600
+! author: Hermes Architecture Team
 
-! price$incontent
-! price$indescription
+! --- SECTION 1: PRIMARY MARKETPLACE BOOSTS ---
+! These sites are boosted with maximum strength (10) as they are the primary targets for the Hermes Agent.
 
-$discard
-$site=facebook.com,path=/marketplace/nyc//search*$boost=3
-|https://www.facebook.com/marketplace/nyc/search/?query=*
+$boost=10,site=ebay.com
+$boost=10,site=vinted.com
+$boost=10,site=facebook.com/marketplace
+$boost=10,site=poshmark.com
+$boost=10,site=mercari.com
+
+! --- SECTION 2: SPECIALIZED RESALE BOOSTS ---
+! These platforms are boosted with high strength (8) for niche luxury and vintage finds.
+
+$boost=8,site=depop.com
+$boost=8,site=grailed.com
+$boost=8,site=offerup.com
+$boost=8,site=craigslist.org
+$boost=8,site=whatnot.com
+
+! --- SECTION 3: SECONDARY LOCAL & NICHE ---
+! Boosting community-driven and niche sites (strength 5).
+
+$boost=5,site=etsy.com
+$boost=5,site=varagesale.com
+$boost=5,site=nextdoor.com
+
+! --- SECTION 4: RETAIL NOISE REDUCTION ---
+! Downranks major retail sites that dilute arbitrage data but are useful for price comparison.
+
+$downrank=8,site=amazon.com
+$downrank=8,site=walmart.com
+$downrank=8,site=target.com
+$downrank=8,site=homedepot.com
+
+! --- SECTION 5: DISCARD SPAM & COPYCATS ---
+! Discards low-quality content farms and StackOverflow scrapers to clean the stream.
+
+$discard,site=pinterest.com
+$discard,site=w3schools.com
+$discard,site=geeksforgeeks.org
